@@ -2,7 +2,7 @@ function ScrollingImages(){
     Shery.imageEffect("#back", {
         style: 5,
         scrollSnapping: true,
-        scrollSpeed: 6,
+        scrollSpeed: 2,
         touchSpeed: 6,
         damping: 7,
         config:
